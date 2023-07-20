@@ -73,7 +73,6 @@
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
     <br>PostgreSQL
 
-   
 
    <tr>
    </tr>
