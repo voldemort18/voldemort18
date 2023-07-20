@@ -1,9 +1,6 @@
 ### [Connect with me 💬](https://voldemort18.github.io/Website/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=voldemort18.voldemort18)
 
-
-
-
 <p align='center'>
   <img src="1.JPG" alt="banner" width="800" height="250">
 </p>
@@ -29,7 +26,6 @@
   ## My favorite tools and technologies ⚙️
 
   > Tools and technologies that I have worked with and am interested in
-
   <table>
     <tr>
       <td align="center" width="96">
@@ -44,7 +40,6 @@
         </a>
         <br>Java
       </td>
-      </td
       <td align="center"  width="96">
           <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
         <br>HTML
@@ -68,8 +63,7 @@
       <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
     <br>PostgreSQL
-
-
+      </td>
    <tr>
    </tr>
   </table>
