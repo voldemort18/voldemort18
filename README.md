@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=voldemort18.voldemort18)
 
 <p align='center'>
-  <img src="1.JPG" alt="banner" width="800" height="250">
+  <img src="1.JPG" alt="banner" width="700" height="250">
 </p>
 
 <p align='center'>
