@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-  <img src="2.JPG" alt="banner" width="800" height="300">
+  <img src="2.JPG" alt="banner" width="550" height="300">
 </p>
 
 <a href="https://www.instagram.com/voldemort__18/?igshid=spukdhwfvtdl">
