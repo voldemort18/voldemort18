@@ -5,7 +5,7 @@
 
 
 <p align='center'>
-  <img src="1.png" alt="banner" width="800" height="250">
+  <img src="1.JPG" alt="banner" width="800" height="250">
 </p>
 
 <p align='center'>
