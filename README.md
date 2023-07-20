@@ -40,6 +40,12 @@
         </a>
         <br>Java
       </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>Java
+      </td>
       <td align="center"  width="96">
           <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
         <br>HTML
@@ -52,14 +58,6 @@
           <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
         <br>CSS
       </td>
-      <td align="center"  width="96">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-        <br>Bootstrap
-      </td>
-      <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-    <br>JQuery
-  </td>
       <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
     <br>PostgreSQL
