@@ -23,7 +23,7 @@
   <p align="justify">
   Hola people!! Welcome to my GitHub Page. I am Swarnamuhi Kannan an AI student, I like working on new projects and super excited to work on ML , DL , Image processing and NLP based projects.
   </p>
-  ## My favorite tools and technologies ⚙️
+## My favorite tools and technologies ⚙️
 
   > Tools and technologies that I have worked with and am interested in
   <table>
